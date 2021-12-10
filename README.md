@@ -1,2 +1,2 @@
 # Practica2
-Daniel Perez
+Hecho por Daniel Perez
